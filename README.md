@@ -1,2 +1,2 @@
 # statkku
-For keeping the python code in Basic Data Science subject
+These codes are reserved for Basic Data Science subject
